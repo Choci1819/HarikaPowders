@@ -4,10 +4,10 @@ This is a small demo React + TypeScript store showing millets, millet powders an
 
 Developer
 
-- Developed by: Your Developer Name
-- Contact: your-email@example.com
-- Website: https://your-website.example.com
-
+- Developed by: Pathivada Bhargava Kirshna
+- Contact: 
+- Website: [https://your-website.example.com
+](https://pathivadabhargava.vercel.app/)
 Quick start
 
 1. Install dependencies:
@@ -31,4 +31,5 @@ Notes
 
 - This project is scaffolded as a minimal demo; you can expand it with authentication, a backend, and payments later.
  
+
 If you'd like the site to show your real attribution: open `src/config.ts` and update the `DEV_NAME`, `DEV_EMAIL`, and `DEV_WEBSITE` constants (these are shown in the site footer).
